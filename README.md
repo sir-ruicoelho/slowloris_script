@@ -1,10 +1,10 @@
 # slowloris_script
-
-## WARNING: You should not use this!
-Use this only to test your websites.
+Slowloris intensifier with bash.
+Note: Use this only to test your own websites.
 
 ## Script without tor
 The file myscript_nTor.sh runs without Tor.
+
 ## Script with tor
 To use myscript_Tor.sh make sure you have installed tor and torsocks. 
 
