@@ -1,4 +1,4 @@
-# slowloris_script
+# Slowloris Script
 Slowloris intensifier with bash.
 
 Note: Use this only to test your own websites.
