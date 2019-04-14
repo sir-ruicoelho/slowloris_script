@@ -13,7 +13,7 @@ To use myscript_Tor.sh make sure you have installed tor and torsocks.
 Use it wisely and at your own risk!
 
 This script intensifies slowloris written in perl.
-Slowloris is available on: https://github.com/gkbrk/slowloris
+Slowloris is available on: https://github.com/llaera/slowloris.pl
 
 ``` 
 1. Put this script into the same directory of slowloris.pl
